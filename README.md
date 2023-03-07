@@ -2,7 +2,7 @@
 
 - 👋 Hello, I'm Jeff.
 - 👀 I’m interested Full-stack Web Development and Data Science.
-- 👨‍💻 I'm currently studying Bachelor of Science in Information of Technology and Management at The University of Auckland 🇳🇿.
+- 👨‍💻 I'm currently studying Bachelor of Science in Information of Technology and Management at The University of Auckland 🇳🇿
 - 🌱 I’m currently learning Web development.
 <!--
 **jhwa426/jhwa426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## Skills 👩‍💻
+## Skills 💻
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## Learning 💻
+## Learning 👨🏻‍💻
 
 [![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)](https://html.com/)
 [![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)](https://www.free-css.com/)
