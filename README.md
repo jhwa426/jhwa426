@@ -1,9 +1,10 @@
 ## About Me 📝
 
 - 👋 Hello, I'm Jeff.
-- 👀 I’m interested Full-stack Web Development and Data Science.
+- 👀 I’m interested in Full-stack Web Development and Data Science.
 - 👨‍💻 I'm currently studying Bachelor of Science in Information of Technology and Management at The University of Auckland 🇳🇿
 - 🌱 I’m currently learning Web development.
+
 <!--
 **jhwa426/jhwa426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
 <br />
 
 ## Contact 📱
