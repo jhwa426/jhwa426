@@ -76,9 +76,9 @@ Here are some ideas to get you started:
 
 <br />
 
-![Jeff Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhwa426&show_icons=true&theme=tokyonight)
+![Jeff Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhwa426&hide=contribs,stars&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhwa426&layout=tokyonight&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhwa426&layout=compact&theme=tokyonight)
 
 <br />
 
