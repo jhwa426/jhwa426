@@ -1,6 +1,6 @@
 ## About Me 📝
 
-- 👋 Hello, I'm Jeff Hwang.
+- 👋 Hello, I'm Jeff.
 - 👀 I’m interested in Full-stack Web Development and Data Science.
 - 👨‍💻 I'm currently studying Bachelor of Science in Information and Technology Management at [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
 - 🌱 I’m currently learning [Full-stack Web Development](https://www.appbrewery.co/p/web-development-course-resources/).
