@@ -2,8 +2,8 @@
 
 - 👋 Hello, I'm Jeff Hwang.
 - 👀 I’m interested in Full-stack Web Development and Data Science.
-- 👨‍💻 I'm currently studying Bachelor of Science in Information Technology and Management at The University of Auckland 🇳🇿
-- 🌱 I’m currently learning Web development.
+- 👨‍💻 I'm currently studying Bachelor of Science in Information and Technology Management at [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
+- 🌱 I’m currently learning [Full-stack Web Development](https://www.appbrewery.co/p/web-development-course-resources/).
 
 <!--
 **jhwa426/jhwa426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
