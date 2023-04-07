@@ -83,3 +83,5 @@ Here are some ideas to get you started:
 <br />
 
 ![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
+
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{jhwa426}1212%2Fhit-counter
