@@ -16,6 +16,7 @@
 [<img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send/?phone=642102252350&text&type=phone_number&app_absent=0)
 
 [<img src ="https://img.shields.io/badge/Email-myemail-%23.svg?&color=bl&style=for-the-badge&logo=&logoColor=white">](mailto:jeffhwa411@gmail.com)
+
 <br />
 
 ## Skills 💻
@@ -72,12 +73,12 @@
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](http://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-<br />
+<!-- <br /> -->
 
 <!-- ![Jeff Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhwa426&hide=contribs,stars&count_private=true&show_icons=true&theme=tokyonight) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhwa426&layout=compact&theme=tokyonight) -->
 
-<br />
+<!-- <br /> -->
 
 <!-- ![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge) -->
