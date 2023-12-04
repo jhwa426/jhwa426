@@ -2,7 +2,7 @@
 
 - 👋 Hello, I'm Jeff.
 - 👀 I’m interested in Full-stack Web Development and Data Science.
-- 👨‍💻 I recently graduated with a Bachelor of Science in IT Management and Software Development module from [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
+- 👨‍💻 I recently graduated from [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
 - 🌱 I’m currently learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
 <br />
