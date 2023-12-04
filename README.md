@@ -2,35 +2,35 @@
 
 - 👋 Hello, I'm Jeff.
 - 👀 I’m interested in Full-stack Web Development and Data Science.
-- 👨‍💻 I'm currently studying Bachelor of Science in Information and Technology Management at [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
-- 🌱 I’m currently learning [Full-stack Web Development](https://www.appbrewery.co/p/web-development-course-resources/).
-
-<!--
-**jhwa426/jhwa426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+- 👨‍💻 I recently graduated with a Bachelor of Science in IT Management and Software Development module from [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
+- 🌱 I’m currently learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
 <br />
 
 ## Contact 📱
 
-[<img src ="https://img.shields.io/badge/Email-myemail-%23.svg?&color=bl&style=for-the-badge&logo=&logoColor=white">](mailto:jeffhwa411@gmail.com)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://jeff-hwang.netlify.app)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeffhwa411/)
 
+[<img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send/?phone=642102252350&text&type=phone_number&app_absent=0)
+
+[<img src ="https://img.shields.io/badge/Email-myemail-%23.svg?&color=bl&style=for-the-badge&logo=&logoColor=white">](mailto:jeffhwa411@gmail.com)
 <br />
 
 ## Skills 💻
+
+[![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)](https://html.com/)
+[![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)](https://www.free-css.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
+[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![NEXT JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](http://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -62,24 +62,22 @@ Here are some ideas to get you started:
 
 ## Learning 👨🏻‍💻
 
-[![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)](https://html.com/)
-[![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)](https://www.free-css.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
+[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![NEXT JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](http://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
 
 <br />
 
-![Jeff Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhwa426&hide=contribs,stars&count_private=true&show_icons=true&theme=tokyonight)
+<!-- ![Jeff Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhwa426&hide=contribs,stars&count_private=true&show_icons=true&theme=tokyonight) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhwa426&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhwa426&layout=compact&theme=tokyonight) -->
 
 <br />
 
-![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
+<!-- ![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge) -->
