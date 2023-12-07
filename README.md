@@ -9,13 +9,9 @@
 
 ## Contact Me 📱
 
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://jeff-hwang.netlify.app)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://jeff-hwang.netlify.app)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeffhwa411/)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeffhwa411/)
-
-[<img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send/?phone=642102252350&text&type=phone_number&app_absent=0)
-
-[<img src ="https://img.shields.io/badge/Email-myemail-%23.svg?&color=bl&style=for-the-badge&logo=&logoColor=white">](mailto:jeffhwa411@gmail.com)
+[<img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send/?phone=642102252350&text&type=phone_number&app_absent=0) [<img src ="https://img.shields.io/badge/Email-myemail-%23.svg?&color=bl&style=for-the-badge&logo=&logoColor=white">](mailto:jeffhwa411@gmail.com)
 
 <br />
 
