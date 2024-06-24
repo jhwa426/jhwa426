@@ -1,9 +1,13 @@
+<h1 align="center">👋 Hello, I'm Jeff</h1>
+<h3 align="center">I am passionate about integrating my Full-stack Web Development, Software Engineering and Data Science expertise</h3>
+
 ## About Me 📝
 
-- 👋 Hello, I'm Jeff.
-- 👀 I’m interested in Full-stack Web Development and Data Science.
 - 👨‍💻 I recently graduated from [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
-- 🌱 I’m currently upskilling by learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+
+- 👀 Check out my [Personal Website](https://jeff-hwang.netlify.app)
+
+- 📝 I’m currently upskilling by learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) and Typescript
 
 <br />
 
@@ -17,7 +21,38 @@
 
 ## Technical Skills 💻
 
-[![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)](https://html.com/)
+<img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" />
+<img align="left" alt="Javascript" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+<img align="left" alt="Typescript" height="50px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
+<img align="left" alt="html5" height="50px" src="https://cdn.svgporn.com/logos/html-5.svg" />
+<img align="left" alt="css3" height="50px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+<img align="left" alt="tailwindcss" height="50px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
+<img align="left" alt="nodejs" height="50px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
+<img align="left" alt="mongodb" height="50px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg" />
+<img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
+
+<br />
+<br />
+<br />
+
+<img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />
+<img align="left" alt="C#" height="50px" src="https://cdn.svgporn.com/logos/c-sharp.svg" />
+<img align="left" alt="Java" height="50px" src="https://cdn.svgporn.com/logos/java.svg" />
+
+<br />
+<br />
+<br />
+<img align="left" alt="pandas" height="50px" src="https://cdn.svgporn.com/logos/pandas-icon.svg" />
+<img align="left" alt="numpy" height="50px" src="https://cdn.svgporn.com/logos/numpy.svg" />
+<img align="left" alt="r-lang" height="50px" src="https://cdn.svgporn.com/logos/r-lang.svg" />
+<img align="left" alt="tableau" height="50px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" />
+<img align="left" alt="google-analytics" height="50px" src="https://cdn.svgporn.com/logos/google-analytics.svg" />
+
+<br />
+<br />
+<br />
+
+<!-- [![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)](https://html.com/)
 [![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)](https://www.free-css.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -53,12 +88,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) -->
 
-<br />
-
-## Learning 👨🏻‍💻
-
+<!-- ## Learning 👨🏻‍💻
 
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![NEXT JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
@@ -66,7 +98,7 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](http://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) -->
 
 <!-- <br /> -->
 
