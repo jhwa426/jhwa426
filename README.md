@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Jeff</h1>
-<h3 align="center">I am passionate about integrating my Full-stack Web Development, Software Engineering and Data Science expertise</h3>
+<h3 align="center">I am passionate about integrating my Full-stack Web Development and Software Engineering</h3>
 
 ## About Me 📝
 
