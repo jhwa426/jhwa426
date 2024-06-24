@@ -42,15 +42,12 @@
 <br />
 <br />
 <br />
+
 <img align="left" alt="pandas" height="50px" src="https://cdn.svgporn.com/logos/pandas-icon.svg" />
 <img align="left" alt="numpy" height="50px" src="https://cdn.svgporn.com/logos/numpy.svg" />
 <img align="left" alt="r-lang" height="50px" src="https://cdn.svgporn.com/logos/r-lang.svg" />
 <img align="left" alt="tableau" height="50px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" />
 <img align="left" alt="google-analytics" height="50px" src="https://cdn.svgporn.com/logos/google-analytics.svg" />
-
-<br />
-<br />
-<br />
 
 <!-- [![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)](https://html.com/)
 [![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)](https://www.free-css.com/)
