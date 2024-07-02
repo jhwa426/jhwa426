@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Jeff</h1>
-<h3 align="center">I am passionate about integrating my Full-stack Web Development and Software Engineering</h3>
+<h4 align="center">I am passionate about leveraging my technical skills and various technologies to drive innovation, foster a positive work culture, and lead collaborative teams.</h4>
 
 ## About Me 📝
 
@@ -7,7 +7,7 @@
 
 - 👀 Check out my [Personal Website](https://jeff-hwang.netlify.app)
 
-- 📝 I’m currently upskilling by learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) and Typescript
+- 📝 I’m currently upskilling by learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/), Full-Stack Web Development, and Typescript
 
 <br />
 
@@ -34,11 +34,13 @@
 <br />
 <br />
 <br />
+<br />
 
 <img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />
 <img align="left" alt="C#" height="50px" src="https://cdn.svgporn.com/logos/c-sharp.svg" />
 <img align="left" alt="Java" height="50px" src="https://cdn.svgporn.com/logos/java.svg" />
 
+<br />
 <br />
 <br />
 <br />
