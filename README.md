@@ -12,7 +12,6 @@
 - 📝 I’m currently upskilling by learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/), Full-Stack Web Development, and Typescript
 
 <br />
-<br />
 
 ## Technical Skills 💻
 
@@ -29,11 +28,13 @@
 <br />
 <br />
 <br />
+<br />
 
 <img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />
 <img align="left" alt="C#" height="50px" src="https://cdn.svgporn.com/logos/c-sharp.svg" />
 <img align="left" alt="Java" height="50px" src="https://cdn.svgporn.com/logos/java.svg" />
 
+<br />
 <br />
 <br />
 <br />
