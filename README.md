@@ -5,11 +5,11 @@
 
 ## About Me 📝
 
-- 👨‍💻 I graduated from [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
+- 👨‍💻 Graduated from [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
 
 - 👀 Check out my [Personal Website](https://jeff-hwang.netlify.app)
 
-- 📝 I’m currently upskilling by learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/), Full-Stack Web Development, and Typescript
+- 📝 Currently upskilling by learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/), [Full-Stack Web Development](https://github.com/jhwa426/Booking-System), and Typescript
 
 <br />
 
