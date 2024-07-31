@@ -20,6 +20,7 @@
 <img align="left" alt="Typescript" height="50px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
 <img align="left" alt="html5" height="50px" src="https://cdn.svgporn.com/logos/html-5.svg" />
 <img align="left" alt="css3" height="50px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+<img align="left" alt="styled-components" height="50px" src="https://styled-components.com/atom.png" />
 <img align="left" alt="tailwindcss" height="50px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
 <img align="left" alt="nodejs" height="50px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
 <img align="left" alt="mongodb" height="50px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg" />
