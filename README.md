@@ -24,6 +24,7 @@
 <img align="left" alt="nodejs" height="50px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
 <img align="left" alt="mongodb" height="50px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg" />
 <img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
+<img align="left" alt="netlify" height="50px" src="https://cdn.svgporn.com/logos/netlify-icon.svg" />
 
 <br />
 <br />
