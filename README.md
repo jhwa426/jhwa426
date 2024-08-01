@@ -9,7 +9,7 @@
 
 - 👀 Check out my [Personal Website](https://jeff-hwang.netlify.app)
 
-- 📝 Currently upskilling by learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/), [Full-Stack Web Development](https://github.com/jhwa426/Booking-System), and Typescript
+- 📝 Currently upskilling by learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/), [Full-Stack Web Development](https://github.com/jhwa426/Booking-System), and [Typescript](https://github.com/jhwa426/Patient-Management-System)
 
 <br />
 
