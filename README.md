@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm Jeff</h1>
-<h3 align="center" style="font-size: 1.4rem;">I am passionate about leveraging my technical skills and various technologies to drive innovation, foster a positive work culture, and lead collaborative teams.</h3>
+<h2 align="center">I am passionate about leveraging my technical skills and various technologies to drive innovation, foster a positive work culture, and lead collaborative teams.</h2>
 
 <br />
 
