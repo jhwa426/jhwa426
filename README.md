@@ -31,7 +31,6 @@
 <br />
 <br />
 <br />
-<br />
 
 <img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />
 <img align="left" alt="C#" height="50px" src="https://cdn.svgporn.com/logos/c-sharp.svg" />
