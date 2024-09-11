@@ -15,7 +15,9 @@
 
 ## Technical Skills 💻
 
-<img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" />
+<img align="left" alt="Technical Skills" height="50px" src="https://skillicons.dev/icons?i=react,js,typescript,nextjs,tailwindcss,styledcomponents,html,css,mongodb,nodejs,git" />
+
+<!-- <img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" />
 <img align="left" alt="Javascript" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />
 <img align="left" alt="Typescript" height="50px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
 <img align="left" alt="NextJS" height="50px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" />
@@ -25,27 +27,30 @@
 <img align="left" alt="css3" height="50px" src="https://cdn.svgporn.com/logos/css-3.svg" />
 <img align="left" alt="nodejs" height="50px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
 <img align="left" alt="mongodb" height="50px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg" />
-<img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
+<img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" /> -->
 
 <br />
 <br />
 <br />
 <br />
 
-<img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />
+<img align="left" alt="Technical Skills" height="50px" src="https://skillicons.dev/icons?i=python,cs,java" />
+
+<!-- <img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />
 <img align="left" alt="C#" height="50px" src="https://cdn.svgporn.com/logos/c-sharp.svg" />
-<img align="left" alt="Java" height="50px" src="https://cdn.svgporn.com/logos/java.svg" />
+<img align="left" alt="Java" height="50px" src="https://cdn.svgporn.com/logos/java.svg" /> -->
 
+<!-- <br />
 <br />
 <br />
 <br />
-<br />
+
 
 <img align="left" alt="pandas" height="50px" src="https://cdn.svgporn.com/logos/pandas-icon.svg" />
 <img align="left" alt="numpy" height="50px" src="https://cdn.svgporn.com/logos/numpy.svg" />
 <img align="left" alt="r-lang" height="50px" src="https://cdn.svgporn.com/logos/r-lang.svg" />
 <img align="left" alt="tableau" height="50px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" />
-<img align="left" alt="google-analytics" height="50px" src="https://cdn.svgporn.com/logos/google-analytics.svg" />
+<img align="left" alt="google-analytics" height="50px" src="https://cdn.svgporn.com/logos/google-analytics.svg" /> -->
 
 <br />
 <br />
