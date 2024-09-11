@@ -31,8 +31,6 @@
 
 <br />
 <br />
-<br />
-<br />
 
 <img align="left" alt="Technical Skills" height="50px" src="https://skillicons.dev/icons?i=python,cs,java" />
 
@@ -52,8 +50,6 @@
 <img align="left" alt="tableau" height="50px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" />
 <img align="left" alt="google-analytics" height="50px" src="https://cdn.svgporn.com/logos/google-analytics.svg" /> -->
 
-<br />
-<br />
 <br />
 <br />
 
