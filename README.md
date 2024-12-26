@@ -1,27 +1,21 @@
-<h1 align="left">👋 Hello, I'm Jeff</h1>
+<h1 align="left">Hi 👋, I'm Jeff</h1>
 <h3 align="center" style="font-size: 1.4rem;">I am passionate about leveraging my technical skills and various technologies to drive innovation, foster a positive work culture, and lead collaborative teams.</h3>
 
 <br />
 
 ## About Me 📝
 
-<<<<<<< HEAD
 - 🧑🏻‍💻 Currently working as Junior Frontend Developer
 
 - 👨🏻‍🎓 Graduated from [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
-=======
-- 👨‍💻 Graduated from [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
->>>>>>> parent of 37a623d (readme)
 
 - 👀 Check out my [Personal Website](https://jeff-hwang.netlify.app)
 
-- 📝 Currently upskilling by learning [React-The-Complete-Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/), [Full-Stack Web Development](https://github.com/jhwa426/Booking-System), and [Typescript](https://github.com/jhwa426/Patient-Management-System)
-
 <br />
 
-## Technical Skills 💻
+## Technical Skills 🧑🏻‍💻
 
-<img align="left" alt="Technical Skills" height="50px" src="https://skillicons.dev/icons?i=react,js,typescript,nextjs,tailwindcss,styledcomponents,html,css,mongodb,nodejs,git" />
+<img align="left" alt="Technical Skills" height="50px" src="https://skillicons.dev/icons?i=angular,typescript,js,react,nextjs,scss,tailwindcss,styledcomponents,mongodb,nodejs,git,figma" />
 
 <!-- <img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" />
 <img align="left" alt="Javascript" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />
@@ -51,11 +45,11 @@
 <br />
 <br />
 
-<img align="left" alt="pandas" height="50px" src="https://cdn.svgporn.com/logos/pandas-icon.svg" /><img align="left" alt="numpy" height="50px" src="https://cdn.svgporn.com/logos/numpy.svg" /><img align="left" alt="r-lang" height="50px" src="https://cdn.svgporn.com/logos/r-lang.svg" /><img align="left" alt="tableau" height="50px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" /><img align="left" alt="google-analytics" height="50px" src="https://cdn.svgporn.com/logos/google-analytics.svg" />
+<!-- <img align="left" alt="pandas" height="50px" src="https://cdn.svgporn.com/logos/pandas-icon.svg" /><img align="left" alt="numpy" height="50px" src="https://cdn.svgporn.com/logos/numpy.svg" /><img align="left" alt="r-lang" height="50px" src="https://cdn.svgporn.com/logos/r-lang.svg" /><img align="left" alt="tableau" height="50px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" /><img align="left" alt="google-analytics" height="50px" src="https://cdn.svgporn.com/logos/google-analytics.svg" /> -->
 
+<!-- <br />
 <br />
-<br />
-<br />
+<br /> -->
 
 ## Contact Me 📱
 
