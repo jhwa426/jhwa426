@@ -5,7 +5,7 @@
 
 ## About Me 📝
 
-- 🧑🏻‍💻 Currently working as Junior Frontend Developer at [PHQ](https://phq.nz/)
+- 🧑🏻‍💻 Currently working as Junior Frontend Developer
 
 - 👨🏻‍🎓 Graduated from [The University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate/bsc-info-management-from-2019.html) 🇳🇿
 
