@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jeff</h1>
+<h1 align="left">Hi 👋🏻, I'm Jeff</h1>
 <h3 align="center" style="font-size: 1.4rem;">I am passionate about leveraging my technical skills and various technologies to drive innovation, foster a positive work culture, and lead collaborative teams.</h3>
 
 <br />
