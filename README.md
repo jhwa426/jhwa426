@@ -15,7 +15,7 @@
 
 ## Technical Skills 🧑🏻‍💻
 
-<img align="left" alt="Technical Skills" height="50px" src="https://skillicons.dev/icons?i=angular,typescript,js,react,nextjs,scss,tailwindcss,styledcomponents,mongodb,nodejs,git,figma" />
+<img align="left" alt="Technical Skills" height="50px" src="https://skillicons.dev/icons?i=angular,react,typescript,js,nextjs,scss,tailwindcss,styledcomponents,mongodb,nodejs,git,figma" />
 
 <!-- <img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" />
 <img align="left" alt="Javascript" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />
